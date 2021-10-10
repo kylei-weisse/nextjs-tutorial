@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-         Look at this file: <code>pages/index.js</code>
+         Editing <code>pages/index.js</code> shows immediate results
         </p>
 
         <div className="grid">
