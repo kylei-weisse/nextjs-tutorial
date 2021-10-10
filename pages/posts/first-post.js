@@ -7,6 +7,7 @@ export default function FirstPost() {
       <h2> 
         <Link href="/">
           <a>Back to Home</a>
+          {/* <a></a> isn't strictly necessary, but helps with styling, accessibility and SEO. */}
         </Link>
       </h2>
     </>
